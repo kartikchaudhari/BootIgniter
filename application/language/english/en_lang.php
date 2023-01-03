@@ -1,6 +1,6 @@
 <?php 
 	
-	$lang['system_name']='&lt;/c0d3!9n!t3r&gt;';
+	$lang['system_name']='BootIgniter';
 
 
 	$lang['common_form_elements_next']="Next...";

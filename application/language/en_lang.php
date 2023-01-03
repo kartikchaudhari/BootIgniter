@@ -1,4 +1,8 @@
 <?php 
+	
+	$lang['system_name']='';
+
+
 	$lang['common_form_elements_next']="Next...";
 	$lang['common_form_elements_save']="Save...";
 	
@@ -26,7 +30,7 @@
 	$lang['common_form_elements_no']="No";
 	$lang['common_form_elements_to']="to";
 	
-	$lang['common_form_elements_from']="";
+	$lang['common_form_elements_from']="Form";
 	$lang['common_form_elements_history']="History";
 
 ?>
